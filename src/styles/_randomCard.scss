@@ -1,0 +1,11 @@
+.random-card {
+      &-wrapper {
+            position: relative; 
+            max-width: 300px;
+            height: 400px;
+            width: 400px;
+            border: 1px solid $gray;
+            border-radius: 6px;
+            overflow: hidden;
+      }
+}

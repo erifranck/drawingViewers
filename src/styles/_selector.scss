@@ -1,0 +1,19 @@
+.selector {
+      &-wrapper {
+            display: flex;
+            justify-items: center;
+            align-items: center;
+            width: 100vw;
+            height: 100vh;
+      }
+      &-content {
+            height: 500px;
+            max-width: 90%;
+      }
+      &-image {
+            width: 300px;
+            height: 300px;
+            margin-right: 10px;
+            border: 1px solid lightgray;
+      }
+}

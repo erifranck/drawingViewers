@@ -1,0 +1,1 @@
+export const firebaseAPI = 'http://localhost:8000';
